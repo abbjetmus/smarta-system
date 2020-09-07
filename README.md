@@ -18,3 +18,9 @@ Kursen tillämpad programmering och smarta system
 
 ## Firestore
 [Quasar.js dokumentationssida](https://firebase.google.com/docs/firestore)
+
+## VueFire
+[VueFire dokumentationssida](https://vuefire.vuejs.org/)
+
+## VuexFire
+[VuexFire dokumentationssida](https://vuefire.vuejs.org/vuexfire/)
