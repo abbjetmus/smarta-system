@@ -5,13 +5,16 @@ Kursen tillämpad programmering och smarta system
 [Vue.js dokumentationssida](https://vuejs.org/v2/guide/)
 
 ## Vuex
-[Vue.js dokumentationssida](https://vuex.vuejs.org/)
+[Vuex dokumentationssida](https://vuex.vuejs.org/)
+
+## Vue Router
+[Vue Router dokumentationssida](https://router.vuejs.org/)
 
 ## Quasar
-[Quasar.js dokumentationssida](https://vuejs.org/v2/guide/)
+[Quasar dokumentationssida](https://quasar.dev/start/pick-quasar-flavour)
 
 ## Firebase
-[Quasar.js dokumentationssida](https://vuejs.org/v2/guide/)
+[Quasar.js dokumentationssida](https://firebase.google.com/)
 
 ## Firestore
-[Quasar.js dokumentationssida](https://vuejs.org/v2/guide/)
+[Quasar.js dokumentationssida](https://firebase.google.com/docs/firestore)
