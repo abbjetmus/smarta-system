@@ -14,10 +14,10 @@ Kursen tillämpad programmering och smarta system
 [Quasar dokumentationssida](https://quasar.dev/start/pick-quasar-flavour)
 
 ## Firebase
-[Quasar.js dokumentationssida](https://firebase.google.com/)
+[Firebase dokumentationssida](https://firebase.google.com/)
 
 ## Firestore
-[Quasar.js dokumentationssida](https://firebase.google.com/docs/firestore)
+[Firestore dokumentationssida](https://firebase.google.com/docs/firestore)
 
 ## VueFire
 [VueFire dokumentationssida](https://vuefire.vuejs.org/)
