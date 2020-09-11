@@ -11,7 +11,14 @@ Kursen tillämpad programmering och smarta system
 [Vue Router dokumentationssida](https://router.vuejs.org/)
 
 ## Quasar
+### Dokumentation
 [Quasar dokumentationssida](https://quasar.dev/start/pick-quasar-flavour)
+
+### Youtube
+[Quasar - Make Apps With Danny](https://www.youtube.com/channel/UC6eR_ndNgaTeE5t2Ud4ZiHw)
+
+### Artiklar
+[Quasar - Firebase Tutorial - 3 delar](https://dev.to/quasar/to-the-stars-with-quasar-firebase-initial-service-structure-1fcf)
 
 ## Firebase
 [Firebase dokumentationssida](https://firebase.google.com/)
