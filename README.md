@@ -26,6 +26,11 @@ Kursen tillämpad programmering och smarta system
 ## Firestore
 [Firestore dokumentationssida](https://firebase.google.com/docs/firestore)
 
+<br><br>
+
+Hur man jobbar i och strukturerar upp data i Firestore m.m.: <https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ><br>
+Kolla speciellt på första videon.
+
 ## VueFire
 [VueFire dokumentationssida](https://vuefire.vuejs.org/)
 
