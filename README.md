@@ -6,9 +6,9 @@ Här finns relevanta resurser för kursen. Utöver det finns ett referens-projek
 
 Before running Quasar reference application
 Firebase from Google is used to authenticate and store some data in realtime. Since we don’t want to check-in keys for firebase to the repository we use a quasar extension called dotenv. So install the extension by running.
-<br>
+<br><br>
 ```$ quasar ext add @quasar/dotenv```
-<br>
+<br><br>
 Follow the prompts, and when the last prompt entitled: "Name of your Common Root Object", be sure to name it "firebaseConfig". This will be the object that is stored in process.env object and will be loaded into Fireabse's initializeApp method. (/src/boot/firebase.js).
 You will need to create the two files that you specified during the prompts. Named ".env.dev", and ".env.prod". Once these files are created paste the API keys from the Firebase console into those files. Be sure to remove all spaces, colons, and commas. It should look like this: 
 ```apiKey="AIzaSyAWK_j2342342dfgsdfgdsfgdfg"
