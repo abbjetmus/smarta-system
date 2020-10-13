@@ -1,8 +1,8 @@
 # smarta-system
 Kursen tillämpad programmering och smarta system.<br>
-Här finns relevanta resurser för kursen. Utöver det finns ett referens-projekt som kan vara intressant att kolla på.<br>
-Github till referensprojekt: <https://github.com/abbjetmus/happy-visit><br>
-Länk till referensprojektets hemsida: <https://happy-visit-c8747.web.app/#/><br>
+Här finns relevanta resurser för kursen. Utöver det finns ett referens-projekt som kan vara intressant att kolla på.<br><br>
+**Github till referensprojekt:** <https://github.com/abbjetmus/happy-visit><br>
+**Länk till referensprojektets hemsida:** <https://happy-visit-c8747.web.app/#/><br>
 ## Vue.js
 [Vue.js dokumentationssida](https://vuejs.org/v2/guide/)
 
