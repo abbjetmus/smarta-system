@@ -1,6 +1,8 @@
 # smarta-system
-Kursen tillämpad programmering och smarta system
-
+Kursen tillämpad programmering och smarta system.<br>
+Här finns relevanta resurser för kursen. Utöver det finns ett referens-projekt som kan vara intressant att kolla på.<br>
+Github till referensprojekt: <https://github.com/abbjetmus/happy-visit><br>
+Länk till referensprojektets hemsida: <https://happy-visit-c8747.web.app/#/><br>
 ## Vue.js
 [Vue.js dokumentationssida](https://vuejs.org/v2/guide/)
 
@@ -28,6 +30,11 @@ Kursen tillämpad programmering och smarta system
 
 Hur man jobbar i och strukturerar upp data i Firestore m.m.: <https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ><br>
 Kolla speciellt på första videon.
+
+## Firebase Hosting
+Era applikationer kommer hostas dvs göras åtkomliga via internet genom att läggas upp på Firebase Hostning.
+Följande länk förklarar hur man hostar en Quasar app.
+[Firebase Hosting a Quasar App](https://medium.com/@venkyvb/deploy-a-quasar-app-to-firebase-hosting-cf7b26fdc31d)
 
 ## VueFire
 [VueFire dokumentationssida](https://vuefire.vuejs.org/)
