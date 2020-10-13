@@ -3,6 +3,25 @@ Kursen tillämpad programmering och smarta system.<br>
 Här finns relevanta resurser för kursen. Utöver det finns ett referens-projekt som kan vara intressant att kolla på.<br><br>
 **Github till referensprojekt:** <https://github.com/abbjetmus/happy-visit><br>
 **Länk till referensprojektets hemsida:** <https://happy-visit-c8747.web.app/#/><br>
+
+Before running Quasar reference application
+Firebase from Google is used to authenticate and store some data in realtime. Since we don’t want to check-in keys for firebase to the repository we use a quasar extension called dotenv. So install the extension by running.
+<br>
+```$ quasar ext add @quasar/dotenv```
+<br>
+Follow the prompts, and when the last prompt entitled: "Name of your Common Root Object", be sure to name it "firebaseConfig". This will be the object that is stored in process.env object and will be loaded into Fireabse's initializeApp method. (/src/boot/firebase.js).
+You will need to create the two files that you specified during the prompts. Named ".env.dev", and ".env.prod". Once these files are created paste the API keys from the Firebase console into those files. Be sure to remove all spaces, colons, and commas. It should look like this: 
+```apiKey="AIzaSyAWK_j2342342dfgsdfgdsfgdfg"
+authDomain="example.firebaseapp.com"
+databaseURL="https://example.firebaseio.com"
+projectId="example"
+storageBucket="example.appspot.com"
+messagingSenderId="6084123123123"
+appId="1:6084234234:web:12312312312"
+```
+
+Also, be sure to add these files to your .gitignore file. By no means are your keys hidden as they are public on your frontend application, but it's just good practice not to check in your env files.
+
 ## Vue.js
 [Vue.js dokumentationssida](https://vuejs.org/v2/guide/)
 
