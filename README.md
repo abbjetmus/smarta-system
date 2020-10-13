@@ -51,7 +51,7 @@ Hur man jobbar i och strukturerar upp data i Firestore m.m.: <https://www.youtub
 Kolla speciellt på första videon.
 
 ## Firebase Hosting
-Era applikationer kommer hostas dvs göras åtkomliga via internet genom att läggas upp på Firebase Hostning.
+Era applikationer kommer hostas dvs göras åtkomliga via internet genom att läggas upp på Firebase Hosting.
 Följande länk förklarar hur man hostar en Quasar app.
 [Firebase Hosting a Quasar App](https://medium.com/@venkyvb/deploy-a-quasar-app-to-firebase-hosting-cf7b26fdc31d)
 
